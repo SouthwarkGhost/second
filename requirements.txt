@@ -15,4 +15,4 @@ psycopg2==2.9.6
 sqlparse==0.4.4
 tzdata==2023.3
 virtualenv==20.23.0
-Werkzeug==2.3.4
+#Werkzeug==2.3.4
